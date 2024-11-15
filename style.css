@@ -280,9 +280,13 @@ form button {
 @media screen and (max-width: 1300px) {
     #hero {
         flex-direction: column-reverse;
-        height: 2000px;
+        height: 1700px;
     }
-
+    
+.hero-img {
+        border: 1px solid black;
+        padding: 400px 300px 100px 300px;
+    }
 
 }
 
